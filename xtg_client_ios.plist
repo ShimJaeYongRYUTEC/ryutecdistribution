@@ -14,6 +14,17 @@
 					<string>https://shimjaeyongryutec.github.io/ryutecdistribution/xtg_client_ios.ipa</string>
 				</dict>
 			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.ahnlab.tg.sslvpn</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>XTG</string>
+			</dict>
 		</dict>
 	</array>
 </dict>
